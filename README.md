@@ -1,5 +1,6 @@
 Los datos:
 Estos datos son de un censo de EE. UU.
+Del Archivo Train.csv
 https://www.kaggle.com/datasets/kamaumunyori/income-prediction-dataset-us-20th-century-data/data
 
 ¿Gana más de 50 000 dólares?
